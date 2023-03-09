@@ -4,11 +4,36 @@
 
 I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I create websites that help organizations address business challenges and meet their needs. I manage everything from website navigation and layout to a company's web hosting and security architecture. My expertise lies within front-end web apps, and the main languages. in my tech stack are JavaScript, React, React-Native and of course HTML/CSS. I’m a lifelong learner (currently taking a course on building Back-End with ExpressJS).
 
+<br/>
+
+## Connect with me
+
+<div align="center">
+<a href="https://github.com/arrafi-mahin" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/arrafi_mahin" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/arrafi-mahin" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/arrafi" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/arrafi.mahin" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>
+
+<br/>
+
 ## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=arrafi-mahin&show_icons=true&count_private=true&hide_border=true" align="left" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrafi-mahin&hide_border=true&layout=compact" align="left" />
 
+</br >
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
