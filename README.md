@@ -31,9 +31,8 @@ I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I c
 ## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=arrafi-mahin&show_icons=true&count_private=true&hide_border=true" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrafi-mahin&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrafi-mahin&hide_border=true&layout=compact" align="right" />
 
-</br >
 </br >
 
 - 🔭 I’m currently working on ...
