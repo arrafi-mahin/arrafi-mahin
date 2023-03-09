@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-**arrafi-mahin/arrafi-mahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Rafi! I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I create websites that help organizations address business challenges and meet their needs. I manage everything from website navigation and layout to a company's web hosting and security architecture. My expertise lies within front-end web apps, and the main languages. in my tech stack are JavaScript, React, React-Native and of course HTML/CSS. I’m a lifelong learner (currently taking a course on building Back-End with ExpressJS).
 
 Here are some ideas to get you started:
 
