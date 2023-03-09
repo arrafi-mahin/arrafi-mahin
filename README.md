@@ -1,5 +1,6 @@
+[![Arrafi's GitHub Banner](./Assets/github_banner.gif)](https://rafi.netlify.app)
+
 ### Hi there 👋
-![Logo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTA0ODg3Y2U1M2ZlZTM0ZTE2M2Y1ZTNiMDE4NDQ0NmZiYmE3ZjliOSZjdD1n/CcwLAV11cALh3OuEJ5/giphy.gif)
 
 **arrafi-mahin/arrafi-mahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## My Skill Set  
+## My Skill Set
+
 <table><tr><td valign="top" width="33%">
 
+### Frontend
 
-
-### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -34,9 +35,8 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="33%">
 
+### Backend
 
-
-### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -55,9 +55,8 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="33%">
 
+### DevOps
 
-
-### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
@@ -67,6 +66,6 @@ Here are some ideas to get you started:
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
