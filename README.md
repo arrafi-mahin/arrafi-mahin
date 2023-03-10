@@ -29,12 +29,13 @@ I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I c
 <br/>
 
 ## Github Stats
-<a href="#">
+
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=arrafi-mahin&show_icons=true&count_private=true&hide_border=true" align="left" />
 </a>
 <a href="#">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrafi-mahin&hide_border=true&layout=compact" align="right" />
-</a>
+</p>
 </br>
 </br >
 
