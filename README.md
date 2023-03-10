@@ -35,7 +35,7 @@ I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I c
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
-<h4>Libraries:</h4>
+<h4>Tools:</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -44,7 +44,7 @@ I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I c
   <img src="https://img.shields.io/badge/intellij_idea-D61355?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
- 
+    <img src="https://img.shields.io/badge/postman-F94A29?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ## Connect with me
