@@ -34,6 +34,13 @@ I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I c
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
+<h4>Database:</h4>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
 <h4>Tools:</h4>
 
@@ -46,6 +53,18 @@ I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I c
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
     <img src="https://img.shields.io/badge/postman-F94A29?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
+<br />
+
+## Github Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=arrafi-mahin&show_icons=true&count_private=true&hide_border=true"  />
+</a>
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrafi-mahin&hide_border=true&layout=compact" />
+</p>
+</br>
 
 ## Connect with me
 
@@ -68,14 +87,3 @@ I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I c
 </div>
 
 <br/>
-
-## Github Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=arrafi-mahin&show_icons=true&count_private=true&hide_border=true"  />
-</a>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrafi-mahin&hide_border=true&layout=compact" />
-</p>
-</br>
-</br >
