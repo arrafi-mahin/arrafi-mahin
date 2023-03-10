@@ -10,7 +10,7 @@ I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I c
 
 <h4>Programing Languages:</h4>
 
-<p>
+<p align="center">
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -23,7 +23,7 @@ I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I c
 </p>
 
 <h4>Libraries:</h4>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -37,13 +37,11 @@ I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I c
 
 <h4>Libraries:</h4>
 
-<p>
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
+<p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/android_studio-060047?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/web_strom-181823?style=for-the-badge&logo=webstorm&logoColor=white" />
   <img src="https://img.shields.io/badge/intellij_idea-D61355?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="" />
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
  
