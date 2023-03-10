@@ -35,7 +35,7 @@ I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I c
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 <h4>Database:</h4>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -87,3 +87,6 @@ I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I c
 </div>
 
 <br/>
+<p align="center">
+<img src="./Assets/dino.gif" /> 
+</p>
