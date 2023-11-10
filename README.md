@@ -16,9 +16,6 @@ I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I c
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/typescript-323330?style=for-the-badge&logo=typescript&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
@@ -32,7 +29,6 @@ I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I c
 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 <h4>Database:</h4>
 <p align="center">
@@ -50,7 +46,6 @@ I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I c
   <img src="https://img.shields.io/badge/web_strom-181823?style=for-the-badge&logo=webstorm&logoColor=white" />
   <img src="https://img.shields.io/badge/intellij_idea-D61355?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
     <img src="https://img.shields.io/badge/postman-F94A29?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
