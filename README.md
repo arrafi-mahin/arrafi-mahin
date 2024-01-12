@@ -83,5 +83,4 @@ I'm a web developer with in-depth experience in UI/UX design. In a nutshell, I c
 
 <br/>
 <p align="center">
-<img src="./Assets/dino.gif" /> 
 </p>
